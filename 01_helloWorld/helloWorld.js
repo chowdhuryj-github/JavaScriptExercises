@@ -1,5 +1,9 @@
+
+
+// function that runs hello world
+
 const helloWorld = function() {
-  return ''
+  return 'Hello, World!'
 };
 
 module.exports = helloWorld;
